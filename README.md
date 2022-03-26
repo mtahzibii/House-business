@@ -1,3 +1,24 @@
+# House Business Project
+
+Find and list houses for sale or for rent. This is a React / Firebase v9 project from the React Front To Back 2022 course.
+
+## Basic Requirement
+
+- HTML / CSS
+- Javascript
+- REACT
+
+## Used technologies:
+
+"firebase": "^9.6.8",
+"leaflet": "^1.7.1",
+"react": "^17.0.2",
+"react-dom": "^17.0.2",
+"react-leaflet": "^3.2.5",
+"react-router-dom": "^6.2.2",
+"react-scripts": "5.0.0",
+"react-toastify": "^8.2.0",
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
